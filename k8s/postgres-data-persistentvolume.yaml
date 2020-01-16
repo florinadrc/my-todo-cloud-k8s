@@ -11,4 +11,4 @@ spec:
  accessModes:
    - ReadWriteOnce
  hostPath:
-   path: "{path-to-your}/kubedata/todo/postgres"
+   path: "D:/Docker Course/kubedata/kubedata/todo/postgres"
